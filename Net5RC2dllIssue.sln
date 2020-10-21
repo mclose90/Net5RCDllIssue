@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30608.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Net5RC2dllIssue", "Net5RC2dllIssue\Net5RC2dllIssue.csproj", "{1EE4A092-A7A4-4FC2-8573-BC90BCECC577}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainLib", "MainLib\MainLib.csproj", "{D2D894DF-1764-42E3-9CAC-58E64917BF7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EE4A092-A7A4-4FC2-8573-BC90BCECC577}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EE4A092-A7A4-4FC2-8573-BC90BCECC577}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EE4A092-A7A4-4FC2-8573-BC90BCECC577}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EE4A092-A7A4-4FC2-8573-BC90BCECC577}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2D894DF-1764-42E3-9CAC-58E64917BF7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2D894DF-1764-42E3-9CAC-58E64917BF7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2D894DF-1764-42E3-9CAC-58E64917BF7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2D894DF-1764-42E3-9CAC-58E64917BF7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E5377E5-F660-43DE-8599-81F8A7E33F4B}
+	EndGlobalSection
+EndGlobal
