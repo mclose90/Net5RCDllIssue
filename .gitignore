@@ -16,7 +16,9 @@
 [Rr]elease/
 [Rr]eleases/
 x64/
+!MainLib/x64
 x86/
+!MainLib/x86
 bld/
 [Bb]in/
 [Oo]bj/
